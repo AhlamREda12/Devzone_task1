@@ -1,5 +1,8 @@
+body{
+  background-color: rgb(148, 209, 189);
+}
+
 .head{
-border: 1px solid red;
 text-align: center;
 }
 .head button{
@@ -14,6 +17,16 @@ text-align: center;
 .red{
   color: red;
 }
+.yellow{
+  color: rgb(218, 146, 13);
+}
 .blue{
-  color: blue;
+  color:blue
+}
+.btn1:hover{
+  background-color: rgb(238, 184, 113);
+}
+.btn2:hover{
+  background-color: rgb(240, 114, 82);
+
 }
