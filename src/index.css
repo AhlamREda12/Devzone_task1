@@ -1,0 +1,19 @@
+.head{
+border: 1px solid red;
+text-align: center;
+}
+.head button{
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+.home{
+  text-align: center;
+}
+.red{
+  color: red;
+}
+.blue{
+  color: blue;
+}
